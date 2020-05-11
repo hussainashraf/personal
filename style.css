@@ -1,0 +1,60 @@
+
+body{
+  margin: 0px;
+  text-align: center;
+
+}
+
+ div{
+   background-color: #E4F9F5;
+   padding top: 100px;
+   position: relative;
+   
+ }
+
+  .cloud{
+     position: absolute;
+     right: 300px;
+     top: 10px;
+   }
+.mountain{
+  height: 350px;
+}
+
+
+ h1{
+   margin-top: 0px;
+   padding-top: 100px;
+   top: 30px;
+   font-family: 'Sacramento', cursive;
+   font-variant-ligatures: normal;
+
+}
+
+.class2{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+.img{
+  height: 160px;
+}
+
+.ski{
+  height: 400px;
+}
+
+.chilly{
+  height: 400px;
+}
+
+.abc{
+  font-weight: bold;
+
+}
+
+.a{
+  font-weight:bolder;
+}
