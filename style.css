@@ -9,7 +9,7 @@ body{
    background-color: #E4F9F5;
    padding top: 100px;
    position: relative;
-   
+
  }
 
   .cloud{
@@ -17,6 +17,7 @@ body{
      right: 300px;
      top: 10px;
    }
+
 .mountain{
   height: 350px;
 }
@@ -26,14 +27,19 @@ body{
    margin-top: 0px;
    padding-top: 100px;
    top: 30px;
+   line-height: 2;
    font-family: 'Sacramento', cursive;
    font-size: 90px;
+   color: #66BFBF;
 
+}
+h3{
+  color: #11999E;
 }
 
 .class2{
     position: absolute;
-    left: 300px;
+    left: 100px;
     bottom: 300px;
 
 }
@@ -57,4 +63,22 @@ body{
 
 .a{
   font-weight:bolder;
+}
+
+.header-desc{
+  font-size: 30px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+.btn{
+  color: #66BFBF;
 }
